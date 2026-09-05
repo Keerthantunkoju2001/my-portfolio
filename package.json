@@ -1,24 +1,17 @@
 {
-  "name": "portfolio-backend",
+  "name": "keerthan-portfolio-netlify",
   "version": "1.0.0",
-  "description": "Backend API for Keerthan Tunkoju's portfolio website (auth, portfolio CRUD, uploads, contact form).",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js",
-    "dev": "node --watch server.js"
-  },
+  "private": true,
   "dependencies": {
-    "bcryptjs": "^2.4.3",
+    "@netlify/blobs": "^10.0.0",
+    "bcryptjs": "^3.0.2",
     "cors": "^2.8.5",
-    "dotenv": "^16.4.5",
-    "express": "^4.19.2",
-    "express-rate-limit": "^7.4.0",
-    "helmet": "^7.1.0",
+    "express": "^5.1.0",
+    "express-rate-limit": "^8.2.1",
+    "helmet": "^8.1.0",
     "jsonwebtoken": "^9.0.2",
-    "multer": "^2.0.1",
-    "nodemailer": "^9.1.1"
-  },
-  "engines": {
-    "node": ">=18"
+    "multer": "^2.0.2",
+    "nodemailer": "^7.0.6",
+    "serverless-http": "^3.2.0"
   }
 }
