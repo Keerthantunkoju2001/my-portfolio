@@ -1,0 +1,93 @@
+{
+  "profile": {
+    "name": "Keerthan Tunkoju",
+    "title": "Entry-Level Software Developer | AI & ML Graduate",
+    "intro": "AI/ML-focused Computer Science graduate and practicing GIS Engineer with experience in spatial data digitization, topology validation, and urban infrastructure mapping.",
+    "location": "Hyderabad",
+    "email": "keerthantunkoju10@gmail.com",
+    "phone": "+91 6281151724",
+    "photo": "",
+    "links": { "linkedin": "https://linkedin.com/in/keerthan-tunkoju-a24604258", "github": "https://github.com/Keerthantunkoju10", "website": "" }
+  },
+  "about": {
+    "paragraphs": [
+      "AI/ML-focused Computer Science graduate and practicing GIS Engineer with experience in spatial data digitization, topology validation, and urban infrastructure mapping.",
+      "Delivered end-to-end projects spanning convolutional neural networks for medical imaging and ML-driven agricultural prediction models. Currently contributing to large-scale urban GIS initiatives at NeoGeoInfo Technologies using ArcGIS, QGIS, and Google Earth."
+    ]
+  },
+  "skills": {
+    "categories": [
+      {"name": "Languages", "items": ["Python","C","C++","JavaScript","SQL"]},
+      {"name": "Web Technologies", "items": ["HTML5","CSS3","JavaScript"]},
+      {"name": "ML / AI", "items": ["Convolutional Neural Networks (CNN)","Supervised Learning","scikit-learn","Deep Learning"]},
+      {"name": "GIS Tools", "items": ["ArcGIS","QGIS","Google Earth","Global Mapper"]},
+      {"name": "GIS Skills", "items": ["Spatial Data Digitization","Topology Validation","Attribute QA/QC","Layer Management"]},
+      {"name": "Tools & Version Control", "items": ["Git","GitHub","Microsoft Excel"]},
+      {"name": "Databases", "items": ["SQL (MySQL)"]},
+      {"name": "Soft Skills", "items": ["Problem Solving","Team Leadership","Communication"]}
+    ]
+  },
+  "experience": [
+    {"title":"GIS Engineer","company":"NeoGeoInfo Technologies Ltd.","location":"","start":"Feb 2026","end":"Present",
+      "bullets":[
+        "Perform utilities digitization of roads, footpaths, electric networks, drainage, water bodies, parks, and government properties for urban infrastructure projects.",
+        "Execute spatial data validation and topology correction to ensure geometric integrity and compliance with project standards.",
+        "Conduct attribute QA/QC using Excel, verifying data completeness, consistency, and accuracy across GIS layers.",
+        "Create and manage GIS layers for multi-stakeholder urban projects, ensuring high-accuracy data delivery on time.",
+        "Digitized urban infrastructure layers including roads, footpaths, electric network, drainage, water bodies, parks, buildings, and land parcels for the Greater Hyderabad Municipal Corporation (GHMC).",
+        "Performed topology validation, attribute accuracy checks, and basemap correction using ArcGIS, QGIS, Google Earth, and Global Mapper.",
+        "Delivered an accurate, production-ready urban GIS database supporting city planning and infrastructure management."
+      ], "tech":["ArcGIS","QGIS","Google Earth","Global Mapper","Excel"]},
+    {"title":"Python Programming Intern","company":"CodSoft","location":"","start":"Oct 2023","end":"Nov 2023",
+      "bullets":[
+        "Built a feature-complete To-Do List application in Python with task add, delete, and persistence functionality.",
+        "Developed a GUI-based Calculator handling arithmetic, floating-point, and error edge cases.",
+        "Implemented a Password Generator with configurable length, character sets, and entropy-based strength scoring."
+      ], "tech":["Python"]},
+    {"title":"Web Developer Intern","company":"Bharat Intern","location":"","start":"Sep 2023","end":"Oct 2023",
+      "bullets":[
+        "Designed and deployed a personal Portfolio website using HTML, CSS, and JavaScript showcasing projects and skills.",
+        "Built a Temperature Converter tool supporting Celsius, Fahrenheit, and Kelvin conversions with real-time UI feedback.",
+        "Recreated the Netflix homepage as a responsive UI exercise, demonstrating CSS layout and component structuring."
+      ], "tech":["HTML","CSS","JavaScript"]},
+    {"title":"Web Developer Intern","company":"Intrainz","location":"","start":"Jun 2023","end":"Aug 2023",
+      "bullets":[
+        "Developed a full Hotel website frontend using HTML, CSS, and JavaScript including booking UI, gallery, and contact form.",
+        "Completed structured industrial training covering modern front-end development workflows and best practices."
+      ], "tech":["HTML","CSS","JavaScript"]}
+  ],
+  "projects": [
+    {"name":"Crop Yield Prediction Using Machine Learning","shortDesc":"ML pipeline predicting crop yields from soil, weather, and historical agricultural data.",
+      "fullDesc":"Designed and implemented an ML pipeline to predict crop yields based on soil type, weather conditions, crop management practices, and historical records, targeting a key challenge for India's agriculture-dependent economy.",
+      "tech":["Python","scikit-learn","Supervised Learning"],
+      "features":[
+        "Applied and benchmarked multiple supervised learning techniques to model non-linear relationships between input features and crop yield output.",
+        "Addressed key limitations of neural network approaches including relative error reduction and prediction efficiency.",
+        "Synthesized a systematic review of AI-based Crop Yield Prediction (CYP) methods to inform model design."
+      ], "github":"", "demo":"", "image":"", "outcome":""},
+    {"name":"Deep Learning Methods for Identifying Brain Tumors","shortDesc":"CNN-based semantic segmentation of brain MRI scans to automate tumor detection.",
+      "fullDesc":"Built deep learning models using Convolutional Neural Networks (CNN) and watershed algorithms to perform automated semantic segmentation of brain MRI images, reducing the manual burden of clinical image analysis.",
+      "tech":["CNN","Deep Learning","Watershed Algorithm"],
+      "features":[
+        "Trained and evaluated CNN architectures on the BraTS dataset, tuning regularization and hyperparameters for segmentation accuracy.",
+        "Deployed a web application to expose the trained models to medical practitioners for point-of-care inference.",
+        "Addressed spatial and structural heterogeneity in brain tumors to build a dependable automated segmentation pipeline."
+      ], "github":"", "demo":"", "image":"", "outcome":""}
+  ],
+  "education": [
+    {"degree":"B.Tech in Computer Science & Engineering (AI & ML)","institution":"Sri Indu Institute of Engineering & Technology","location":"","start":"2020","end":"2024",
+      "details":["CGPA: 6.6 / 10.0","Relevant coursework: Machine Learning, Deep Learning, Data Structures & Algorithms, Database Management Systems, Computer Networks."]},
+    {"degree":"Intermediate — MPC (Mathematics, Physics, Chemistry)","institution":"Narayana Jr College","location":"","start":"2018","end":"2020",
+      "details":["Percentage: 75%"]}
+  ],
+  "certifications": [
+    {"name":"Web Development Internship Certification","org":"Intrainz","date":"2023","credentialId":"","url":""},
+    {"name":"Python Programming Internship Certification","org":"CodSoft","date":"2023","credentialId":"","url":""}
+  ],
+  "achievements": [],
+  "resumeFile": { "filename":"", "url":"", "updatedAt":"" },
+  "seo": { "title":"Keerthan Tunkoju — Entry-Level Software Developer | AI & ML Graduate",
+        "description":"Portfolio of Keerthan Tunkoju, an AI & ML graduate and GIS Engineer specializing in spatial data, machine learning, and geospatial infrastructure mapping." },
+  "visibility": { "about":true, "skills":true, "projects":true, "experience":true, "education":true, "certifications":true, "achievements":false, "contact":true },
+  "order": ["about","skills","projects","experience","education","certifications","achievements","contact"]
+}
